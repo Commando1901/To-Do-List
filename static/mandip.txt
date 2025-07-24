@@ -1,0 +1,2 @@
+this is mandip.txt file. this is a way for us to render file.
+static directory is used for serve as it is file to website
